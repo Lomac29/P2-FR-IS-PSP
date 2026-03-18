@@ -6,8 +6,8 @@
     "data_size": 88,
     "nom_orig": "Boy",
     "texte_orig": "Hey,[SP][U+1113].[1205][001E][SP]Do[SP]you[SP]think[SP]we're[SP]alike?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Garçon",
+    "texte_fr": "Hey, tu crois qu'on se ressemble ? "
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 80,
     "nom_orig": "Boy",
     "texte_orig": "Yeah...[1205][001E][SP]I[SP]don't[SP]mind,[SP]either.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Garçon",
+    "texte_fr": "Ouais, ça ne me dérange pas non plus."
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 34,
     "nom_orig": "Boy",
     "texte_orig": "Oh[SP]yeah!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Garçon",
+    "texte_fr": "Oh ouais!"
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 142,
     "nom_orig": "Boy",
     "texte_orig": "This[SP]is[SP]my[SP]treasure.[SP]Papa[SP]gave[SP]it[SP]to[SP]me.[1205][001E]\nYou[SP]can[SP]have[SP]it,[SP][U+1113].",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Garçon",
+    "texte_fr": "Ça, c’est le trésor que papa m’a offert. Vous pouvez le prendre si vous le voulez."
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 188,
     "nom_orig": "Boy",
     "texte_orig": "It's[SP]okay.[SP]I[SP]mean,[SP]you're[SP]practically[SP]me.\nAnd[SP]I'm[SP]you.[SP]It'll[SP]be[SP]like[SP]I[SP]still[SP]have[SP]it!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Garçon",
+    "texte_fr": "C’est bon. Enfin, je veux dire, tu es pratiquement moi.Et moi, je suis toi. Ce sera comme si je l’avais toujours !"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 178,
     "nom_orig": "Boy",
     "texte_orig": "Isn't[SP]this...[1205][001E][SP]your[SP]treasure?[SP]I[SP]thought\nyour[SP]dad[SP]gave[SP]this[SP]to[SP]you.[SP]You[SP]can't...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Garçon",
+    "texte_fr": "Ce n’est pas… ton trésor ? Je croyais que ton père te l’avait donné. Tu ne peux pas…"
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 108,
     "nom_orig": "Boy",
     "texte_orig": "Okay,[SP]I[SP]understand.[SP]It'll[SP]be[SP]my[SP]treasure[SP]now!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Garçon",
+    "texte_fr": "D’accord, je comprends. Ce sera mon trésor maintenant !"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 280,
     "nom_orig": "Boy",
     "texte_orig": "Ahahahaha![SP]You're[SP]the[SP]greatest,[SP][U+1113]!\n[E1][E2][E4][NULL][NULL]\"Boy\nNo[SP]matter[SP]what[SP]happens,[SP]we're[SP]gonna[SP]keep[SP]our\npromise[SP]to[SP]each[SP]other![SP]Forever[SP]and[SP]ever!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Garçon",
+    "texte_fr": "Ahahahaha ! Tu es le meilleur ! Quoi qu’il arrive, on va tenir notre promesse l’un envers l’autre ! Pour toujours et à jamais !"
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 146,
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Seeya,[SP]barkeep.[SP]I'll[SP]come[SP]again...\nYeah,[SP]I[SP]promise.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jeune homme ivre",
+    "texte_fr": "À plus, patron… J’reviendrai… Ouais, j’te promets."
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 260,
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Huh?[SP]You[SP]kids[SP]shouldn't[SP]be[SP]out[SP]so[SP]late.[1205][U+000A]\nYou'll[SP]never[SP]grow[SP]up[SP]to[SP]be[SP]upstanding\ncitizens[SP]like[SP]that,[SP]you[SP]know?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jeune homme ivre",
+    "texte_fr": "Hein ? Vous devriez pas traîner dehors si tard… Vous deviendrez jamais d'honnête citoyens comme ça, vous savez ?"
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 260,
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Alright![1205][U+000A][SP]Looking[SP]good[SP]there,[SP]Kaoru,[SP]and[SP]not\nat[SP]all[SP]drunk.[SP]Looking[SP]like[SP]a[SP]man[SP]who's[SP]living\nup[SP]to[SP]his[SP]dreams.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jeune homme ivre",
+    "texte_fr": "Bien joué ! T’as la classe, Kaoru, et t’es même pas saoul. On dirait un mec qui réalise ses rêves."
   },
   {
     "id": 11,
@@ -116,8 +116,8 @@
     "data_size": 174,
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Hey,[SP]I'm[SP]gonna[SP]head[SP]home[SP]now...[1205][U+000A][SP]so[SP]you[SP]kids\nshould[SP]go[SP]home,[SP]too!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jeune homme ivre",
+    "texte_fr": "Hé, moi j’vais rentrer maintenant… Alors vous, les gamins, vous devriez rentrez aussi !"
   },
   {
     "id": 12,
@@ -126,7 +126,7 @@
     "data_size": 118,
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Or[SP]else[SP]I'll[SP]have[SP]to[SP]arrest[SP]you,[SP]haha.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jeune homme ivre",
+    "texte_fr": "Sinon j’vais être obligé de vous arrêter, haha."
   }
 ]
